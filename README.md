@@ -31,70 +31,58 @@ Task1-Landing-Page/
 ├── index.html
 └── style.css
 
-# 💼 Task 2 - Personal Portfolio
+💼 Task 2 - Personal Portfolio
 
-A responsive personal portfolio website developed as part of the **Oasis Infobyte Web Development Internship**.
+A responsive personal portfolio website developed as part of the Oasis Infobyte Web Development Internship.
 
-## 📌 About the Project
+📌 About the Project
 
-This project is a personal portfolio website designed to showcase my skills, projects, education, and contact information. The website has a clean and responsive design suitable for desktop and mobile devices.
+This project is a personal portfolio website designed to showcase my skills, projects, education, and contact information.
 
-## ✨ Features
-
-- Personal introduction
-- About Me section
-- Skills section
-- Projects section
-- Contact section
-- Responsive and clean design
-- Social media links
-- Font Awesome icons through CDN
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome CDN
-
-## 📂 Project Structure
-
+✨ Features
+Personal introduction
+About Me section
+Skills section
+Projects section
+Contact section
+Responsive and clean design
+Social media links
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
+Font Awesome CDN
+📂 Project Structure
 Task2-Personal-Portfolio/
 ├── index.html
 └── style.css
+📋 Task 3 - To-Do Web App
 
+A simple and responsive To-Do List web application developed as part of the Oasis Infobyte Web Development Internship.
 
-# 📋 Task 3 - To-Do Web App
-
-A simple and responsive To-Do List web application developed as part of the **Oasis Infobyte Web Development Internship**.
-
-## 📌 About the Project
+📌 About the Project
 
 This project is an interactive To-Do List application that allows users to manage their daily tasks efficiently.
 
-## ✨ Features
-
-- Add new tasks
-- Mark tasks as completed
-- Display pending tasks
-- Display completed tasks
-- Edit existing tasks
-- Delete tasks
-- Pending and completed task counters
-- Task timestamp
-- Tasks remain saved after refreshing the page
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome CDN
-- Local Storage
-
-## 📂 Project Structure
-
+✨ Features
+Add new tasks
+Mark tasks as completed
+Display pending tasks
+Display completed tasks
+Edit existing tasks
+Delete tasks
+Pending and completed task counters
+Task timestamp
+Tasks remain saved after refreshing the page
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
+Font Awesome CDN
+Local Storage
+📂 Project Structure
 Task3-To-Do-Web-App/
 ├── index.html
 ├── style.css
 └── script.js
+
