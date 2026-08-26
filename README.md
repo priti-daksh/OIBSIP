@@ -33,11 +33,11 @@ Task1-Landing-Page/
 └── style.css
 
 
-## 💼 Task 2 - Personal Portfolio
+# 💼 Task 2 - Personal Portfolio
 
 A responsive personal portfolio website developed as part of the Oasis Infobyte Web Development Internship.
 
-### ✨ Features
+## ✨ Features
 
 - Personal introduction
 - About Me section
@@ -47,25 +47,25 @@ A responsive personal portfolio website developed as part of the Oasis Infobyte 
 - Responsive and clean design
 - Social media links
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Font Awesome CDN
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 Task2-Personal-Portfolio/
 ├── index.html
 └── style.css
 
 
-## 📋 Task 3 - To-Do Web App
+# 📋 Task 3 - To-Do Web App
 
 A simple and responsive To-Do List web application developed as part of the Oasis Infobyte Web Development Internship.
 
-### ✨ Features
+## ✨ Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -74,13 +74,13 @@ A simple and responsive To-Do List web application developed as part of the Oasi
 - User-friendly interface
 - Responsive design
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 Task3-To-Do-Web-App/
 ├── index.html
