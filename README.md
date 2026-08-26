@@ -1,4 +1,3 @@
-
 # 🌐 Task 1 - Landing Page
 
 A modern and responsive landing page developed as part of the **Oasis Infobyte Web Development Internship**.
@@ -32,10 +31,13 @@ Task1-Landing-Page/
 ├── index.html
 └── style.css
 
-
 # 💼 Task 2 - Personal Portfolio
 
-A responsive personal portfolio website developed as part of the Oasis Infobyte Web Development Internship.
+A responsive personal portfolio website developed as part of the **Oasis Infobyte Web Development Internship**.
+
+## 📌 About the Project
+
+This project is a personal portfolio website designed to showcase my skills, projects, education, and contact information. The website has a clean and responsive design suitable for desktop and mobile devices.
 
 ## ✨ Features
 
@@ -46,6 +48,7 @@ A responsive personal portfolio website developed as part of the Oasis Infobyte 
 - Contact section
 - Responsive and clean design
 - Social media links
+- Font Awesome icons through CDN
 
 ## 🛠️ Technologies Used
 
@@ -54,7 +57,7 @@ A responsive personal portfolio website developed as part of the Oasis Infobyte 
 - JavaScript
 - Font Awesome CDN
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 Task2-Personal-Portfolio/
 ├── index.html
@@ -63,7 +66,11 @@ Task2-Personal-Portfolio/
 
 # 📋 Task 3 - To-Do Web App
 
-A simple and responsive To-Do List web application developed as part of the Oasis Infobyte Web Development Internship.
+A simple and responsive To-Do List web application developed as part of the **Oasis Infobyte Web Development Internship**.
+
+## 📌 About the Project
+
+This project is an interactive To-Do List application that allows users to manage their daily tasks efficiently.
 
 ## ✨ Features
 
@@ -71,16 +78,21 @@ A simple and responsive To-Do List web application developed as part of the Oasi
 - Mark tasks as completed
 - Display pending tasks
 - Display completed tasks
-- User-friendly interface
-- Responsive design
+- Edit existing tasks
+- Delete tasks
+- Pending and completed task counters
+- Task timestamp
+- Tasks remain saved after refreshing the page
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
+- Font Awesome CDN
+- Local Storage
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 Task3-To-Do-Web-App/
 ├── index.html
