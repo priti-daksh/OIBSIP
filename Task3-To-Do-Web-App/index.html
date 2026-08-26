@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do Web App</title>
+
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="todo-container">
+
+        <header class="todo-header">
+            <h1><i class="fa-solid fa-list-check"></i> My To-Do List</h1>
+            <p>Organize your day, one task at a time.</p>
+        </header>
+
+        <!-- Add Task -->
+        <div class="task-input">
+            <input type="text" id="taskInput" placeholder="What do you need to do?">
+            <button id="addTaskBtn">
+                <i class="fa-solid fa-plus"></i> Add Task
+            </button>
+        </div>
+
+        <!-- Pending Tasks -->
+        <section class="task-section">
+            <div class="section-title">
+                <h2><i class="fa-regular fa-clock"></i> Pending Tasks</h2>
+                <span id="pendingCount">0 pending</span>
+            </div>
+
+            <div id="pendingTasks" class="task-list">
+                <p class="empty-message">No pending tasks. You're all caught up! 🎉</p>
+            </div>
+        </section>
+
+        <!-- Completed Tasks -->
+        <section class="task-section completed-section">
+            <div class="section-title">
+                <h2><i class="fa-solid fa-circle-check"></i> Completed Tasks</h2>
+                <span id="completedCount">0 completed</span>
+            </div>
+
+            <div id="completedTasks" class="task-list">
+                <p class="empty-message">No completed tasks yet.</p>
+            </div>
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
