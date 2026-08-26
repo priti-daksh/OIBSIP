@@ -26,10 +26,9 @@ This project is a visually polished static landing page created using HTML5 and 
 
 ## 📂 Project Structure
 
-```text
 Task1-Landing-Page/
 ├── index.html
-└── style.css '''
+└── style.css 
 
 💼 Task 2 - Personal Portfolio
 
