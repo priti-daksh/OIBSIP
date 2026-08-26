@@ -29,7 +29,7 @@ This project is a visually polished static landing page created using HTML5 and 
 ```text
 Task1-Landing-Page/
 ├── index.html
-└── style.css
+└── style.css '''
 
 💼 Task 2 - Personal Portfolio
 
@@ -47,15 +47,19 @@ Projects section
 Contact section
 Responsive and clean design
 Social media links
+
 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript
 Font Awesome CDN
+
 📂 Project Structure
 Task2-Personal-Portfolio/
 ├── index.html
 └── style.css
+
+
 📋 Task 3 - To-Do Web App
 
 A simple and responsive To-Do List web application developed as part of the Oasis Infobyte Web Development Internship.
@@ -65,6 +69,7 @@ A simple and responsive To-Do List web application developed as part of the Oasi
 This project is an interactive To-Do List application that allows users to manage their daily tasks efficiently.
 
 ✨ Features
+
 Add new tasks
 Mark tasks as completed
 Display pending tasks
@@ -74,13 +79,17 @@ Delete tasks
 Pending and completed task counters
 Task timestamp
 Tasks remain saved after refreshing the page
+
 🛠️ Technologies Used
+
 HTML5
 CSS3
 JavaScript
 Font Awesome CDN
 Local Storage
+
 📂 Project Structure
+
 Task3-To-Do-Web-App/
 ├── index.html
 ├── style.css
