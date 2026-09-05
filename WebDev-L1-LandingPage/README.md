@@ -32,11 +32,11 @@ WebDev-L1-LandingPage/
 ├── task1.jpeg
 └── README.md
 
-🎯 Objective
+ ## 🎯 Objective
 
 The main objective of this task is to practice frontend web development skills by creating a responsive and visually appealing landing page.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Priti Daksh
 
