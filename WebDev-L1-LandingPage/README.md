@@ -31,6 +31,7 @@ WebDev-L1-LandingPage/
 ├── style.css
 ├── task1.jpeg
 └── README.md
+```
 
  ## 🎯 Objective
 
